@@ -21,10 +21,10 @@
 }
 
 @media (max-width: 767.98px) {
-  #portfolio a.destaque .img-container {
+  #servicos a.destaque .img-container {
     height: 120px;
   }
-  #portfolio a.destaque .img-container img {
+  #servicos a.destaque .img-container img {
     max-height: 120px;
   }
   #clientes .cliente-texto .imagem {

@@ -9,20 +9,20 @@ jQuery(document).ready(function ($) {
   };
 
   //ISOTOPE
-  let btns = $("#portfolio .button-group button");
+  let btns = $("#servicos .button-group button");
 
   btns.click(function (e) {
-    $("#portfolio .button-group button").removeClass("active");
+    $("#servicos .button-group button").removeClass("active");
     e.target.classList.add("active");
 
     let selector = $(e.target).attr("data-filter");
-    $("#portfolio .grid").isotope({
+    $("#servicos .grid").isotope({
       filter: selector,
     });
   });
 
   $(window).on("load", function () {
-    $("#portfolio .grid").isotope({
+    $("#servicos .grid").isotope({
       filter: "*",
     });
   });
