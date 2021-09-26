@@ -54,7 +54,7 @@ body {
   text-transform: uppercase;
 }
 
-#portifolio a.destaque {
+#portfolio a.destaque {
   display: block;
   background: var(--light);
   border-radius: 5px;
@@ -65,24 +65,24 @@ body {
   transition: all ease-out 0.2s;
 }
 
-#portifolio a.destaque:hover {
+#portfolio a.destaque:hover {
   background: #fff;
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.12);
   transform: scale(1.05);
 }
 
-#portifolio p {
+#portfolio p {
   color: var(--dark);
 }
 
-#portifolio a.destaque .img-container {
+#portfolio a.destaque .img-container {
   display: flex;
   align-items: center;
   justify-content: center;
   height: 200px;
 }
 
-#portifolio a.destaque .img-container img {
+#portfolio a.destaque .img-container img {
   max-height: 160px;
 }
 
@@ -155,24 +155,24 @@ body {
   display: block;
 }
 
-#portifolio .badge {
+#portfolio .badge {
   font-weight: 400;
 }
 
-#portifolio .element-item img {
+#portfolio .element-item img {
   border-radius: 5px;
   transition: all ease-out 0.2s;
 }
 
-#portifolio .element-item img:hover {
+#portfolio .element-item img:hover {
   box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.4);
 }
 
-#portifolio .button-group {
+#portfolio .button-group {
   margin-bottom: 30px;
 }
 
-#portifolio .button-group button {
+#portfolio .button-group button {
   background: none;
   border: none;
   padding: 0;
@@ -182,11 +182,11 @@ body {
   outline: none;
 }
 
-#portifolio .button-group button + button {
+#portfolio .button-group button + button {
   margin-left: 30px;
 }
 
-#portifolio .button-group button.active {
+#portfolio .button-group button.active {
   color: var(--primary);
 }
 
