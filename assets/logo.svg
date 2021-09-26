@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 457 559" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:2;">
+<svg width="100%" height="100%" viewBox="0 0 457 559" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
     <g transform="matrix(3.49349,0,0,3.49349,-1221.22,-869.707)">
         <g transform="matrix(9.99246e-18,0.331402,-1,4.31443e-17,633.5,153.428)">
-            <path d="M362.956,263.669L663.439,263.669L663.439,259.331L362.956,259.331L362.956,263.669Z" style="fill:white;stroke:white;stroke-width:4.99px;"/>
+            <path d="M362.956,263.669L663.439,263.669L663.439,259.331L362.956,259.331L362.956,263.669Z" style="fill:white;"/>
         </g>
         <g transform="matrix(1,0,0,1,-87,-2.16875)">
-            <path d="M533.754,275.882C533.754,275.882 470.146,275.882 470.146,275.882L470.146,280.219L529.416,280.219L529.416,328.856L470.146,328.856L470.146,333.194L491.412,333.194L515.815,375.463L519.572,373.294L496.42,333.194L533.754,333.194L533.754,275.882Z" style="fill:white;stroke:white;stroke-width:3.71px;"/>
+            <path d="M533.754,275.882C533.754,275.882 470.146,275.882 470.146,275.882L470.146,280.219L529.416,280.219L529.416,328.856L470.146,328.856L470.146,333.194L491.412,333.194L515.815,375.463L519.572,373.294L496.42,333.194L533.754,333.194L533.754,275.882Z" style="fill:white;"/>
         </g>
         <g transform="matrix(1,0,0,1,-87,-2.16875)">
-            <path d="M542.731,381.831L456.831,381.831L456.831,386.169L547.068,386.169C547.068,386.169 547.068,275.882 547.068,275.882L542.731,275.882L542.731,381.831Z" style="fill:white;stroke:white;stroke-width:3.71px;"/>
+            <path d="M542.731,381.831L456.831,381.831L456.831,386.169L547.068,386.169C547.068,386.169 547.068,275.882 547.068,275.882L542.731,275.882L542.731,381.831Z" style="fill:white;"/>
         </g>
     </g>
 </svg>
